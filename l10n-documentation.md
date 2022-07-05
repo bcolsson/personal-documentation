@@ -14,7 +14,6 @@ $ cargo install --vers "^0.3" mdbook-toc
 5. Clone fork locally
 6. Build preview pages locally
 ```
-$ cargo install --vers "^0.3" mdbook-toc
 $ mdbook serve
 ```
 7. Test for formatting
